@@ -11,6 +11,6 @@ Everything went pretty smoothly,With no errors and confusion.
 5. When everything was configured it worked perfectly fine.
 <hr>
 <p>It was really easy and fun experience! </p> <br>
-<p>I'll give it <b>1/10 of difficulty</b></p>
+<p>I'll give it <b>1/10 of difficulty.</b></p>
 
    
